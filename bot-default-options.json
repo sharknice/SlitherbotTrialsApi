@@ -1,0 +1,22 @@
+{
+    "targetFps": 60,
+    "arcSize": 0.09817477042468103,
+    "radiusMult": 10,
+    "foodAccelSz": 200,
+    "foodAccelDa": 1.5707963267948966,
+    "actionFrames": 20,
+    "collisionDelay": 1,
+    "speedBase": 5.78,
+    "frontAngle": 1.5707963267948966,
+    "enCircleThreshold": 0.45,
+    "enCircleAllThreshold": 0.55,
+    "enCircleDistanceMult": 20,
+    "followCircleLength": 100000,
+    "followCircleDirection": -1,
+    "attackAccellDistance": 50000,
+    "attackAbandonDistanceMult": 15,
+    "followCircleTarget": {
+        "x": 21600,
+        "y": 21600
+    }
+}

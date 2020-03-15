@@ -1,0 +1,110 @@
+[
+    {
+        "options": {
+            "radiusMult": 10
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 0
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 1
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 100
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 1000
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 2
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 3
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 4
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 5
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 6
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 7
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 8
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 9
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 11
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 12
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 15
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 20
+        },
+        "attempts": 10
+    },
+    {
+        "options": {
+            "radiusMult": 50
+        },
+        "attempts": 10
+    }
+]
